@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anand Ojha</h1>
 <h3 align="center">3rd year engineering student from India</h3>
 
-<p align="left"> <a href="https://twitter.com/anand_2324" target="blank"><img src="https://img.shields.io/twitter/follow/anand_2324?logo=twitter&style=for-the-badge" alt="anand_2324" /></a> </p>
 
 - 🔭 I’m currently working on **Skill Swap**
 
