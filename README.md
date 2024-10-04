@@ -21,11 +21,6 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AnandOjha2407/AnandOjha2407/output/snake.svg" alt="Snake animation" />
 
 ###
 
