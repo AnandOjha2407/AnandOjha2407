@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anand Ojha</h1>
-<h3 align="center">3rd year engineering student from India</h3>
+<h3 align="center">4th year engineering student from India</h3>
 
 
 - 🔭 I’m currently working on **DevSecOps and AI**
