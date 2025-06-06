@@ -2,9 +2,9 @@
 <h3 align="center">3rd year engineering student from India</h3>
 
 
-- 🔭 I’m currently working on **Skill Swap**
+- 🔭 I’m currently working on **DevSecOps and AI**
 
-- 🌱 I’m currently learning **Flask & MySQL**
+- 🌱 I’m currently learning **AWS**
 
 - 📫 How to reach me **anandojha901@gmail.com**
 
