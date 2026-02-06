@@ -13,7 +13,7 @@
 ✨ Strong foundation in **C++, Python, JavaScript, and electronics**  
 ✨ I love exploring **systems, IoT, backend engineering, and clean UI/UX**  
 ✨ Open to internships, projects, and collaborations  
-**Portfolio:** https://anandojha.vercel.app/
+**Portfolio:** **https://anandojha.vercel.app/**
 📧 **Email:** *anandojha901@gmail.com*
 
 ---
