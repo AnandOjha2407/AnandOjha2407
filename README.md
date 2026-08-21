@@ -3,7 +3,7 @@
 <h3 align="center">AI/ML | IoT | Python | MERN</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=62F9FF&size=26&center=true&vCenter=true&width=700&lines=AI%2FML+%7C+Python+Developer;Computer+Vision+%7C+Machine+Learning;Python+%7C+C%2B%2B+%7C+JavaScript;IoT+%7C+Arduino+%7C+Embedded+Systems;Building+Real-World+Projects+%F0%9F%92%A1;Always+Learning+New+Tech+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=62F9FF&size=26&center=true&vCenter=true&width=700&lines=AI%2FML;Python;MERN;IoT" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 
 * 🔭 Passionate about **AI/ML, Python, IoT, and software development**
 * 🧠 Building projects involving **Computer Vision, Machine Learning, and intelligent systems**
-* 💻 Experienced with **Python, C++, JavaScript, React, Node.js, and MongoDB**
+* 💻 Experienced with **Python, React, Node.js, and MongoDB**
 * 🔌 Interested in **embedded systems, Arduino, sensors, and real-world automation**
 * 🚀 Love learning new technologies and turning ideas into working projects
 * 🤝 Open to **internships, projects, and collaborations**
@@ -27,7 +27,7 @@
 ## 🧠 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,typescript" alt="Languages" />
 </p>
 
 ## 🤖 AI / ML
@@ -103,12 +103,12 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=anandojha2407&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=anandojha2407&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img height="160" src="https://streak-stats.demolab.com?user=anandojha2407&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=anandojha2407&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandojha2407&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -143,7 +143,7 @@
 # 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anandojha2407&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=anandojha2407&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
