@@ -103,12 +103,12 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=anandojha2407&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="160" src="https://streak-stats.demolab.com?user=anandojha2407&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anandojha2407&theme=tokyonight" alt="GitHub Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anandojha2407&theme=tokyonight" alt="Repositories by Language" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandojha2407&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anandojha2407&theme=tokyonight" alt="GitHub Profile Details" />
 </p>
 
 ---
@@ -140,10 +140,10 @@
 
 ---
 
-# 🏆 Achievements
+# 🏆 GitHub Achievements & Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=anandojha2407&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anandojha2407&theme=tokyonight" alt="GitHub Achievements and Activity" />
 </p>
 
 ---
