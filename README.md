@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <h1 align="center">Hi 👋, I'm Anand Ojha</h1>
-<h3 align="center">Full-Stack Developer | Embedded Systems | C++ & Python Enthusiast</h3>
+<h3 align="center">AI/ML | IOT |  Python | MERN </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=62F9FF&size=26&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+React+%26+Node.js;C%2B%2B+%7C+Python+Programmer;Embedded+Systems+%7C+Arduino+%26+Sensors;Love+Building+Real+World+Projects+💡;Always+Learning+New+Tech+🚀" />
