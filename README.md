@@ -123,20 +123,7 @@
 
 # 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://twitter.com/anand_2324">
-    <img src="https://skillicons.dev/icons?i=twitter" width="50" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/anand-ojha-398052247">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/venom_knox24">
-    <img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram" />
-  </a>
-  <a href="https://www.youtube.com/@anandojha7250">
-    <img src="https://skillicons.dev/icons?i=youtube" width="50" alt="YouTube" />
-  </a>
-</p>
+<p align="center"> <a href="https://twitter.com/anand_2324"> <img src="https://skillicons.dev/icons?i=twitter" width="50" alt="Twitter" /> </a> <a href="https://linkedin.com/in/anand-ojha-398052247"> <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn" /> </a> <a href="https://instagram.com/a_cut_above_24"> <img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram" /> </a> <a href="https://www.youtube.com/@anandojha7250"> <img src="https://cdn.simpleicons.org/youtube/FF0000" width="50" alt="YouTube" /> </a> </p>
 
 ---
 
