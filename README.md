@@ -3,7 +3,7 @@
 <h3 align="center">AI/ML | IoT | Python | MERN</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=62F9FF&size=26&center=true&vCenter=true&width=700&lines=AI%2FML;Python;MERN;IoT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00E5FF&size=26&center=true&vCenter=true&width=700&lines=AI%2FML;Python;MERN;IoT" alt="Typing SVG" />
 </p>
 
 ---
@@ -103,12 +103,12 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anandojha2407&theme=tokyonight" alt="GitHub Stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anandojha2407&theme=tokyonight" alt="Repositories by Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anandojha2407&theme=github_dark&bg_color=050B14&title_color=00E5FF&text_color=B8F3FF&icon_color=00E5FF" alt="GitHub Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anandojha2407&theme=github_dark&bg_color=050B14&title_color=00E5FF&text_color=B8F3FF&icon_color=00E5FF" alt="Repositories by Language" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anandojha2407&theme=tokyonight" alt="GitHub Profile Details" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anandojha2407&theme=github_dark&bg_color=050B14&title_color=00E5FF&text_color=B8F3FF&icon_color=00E5FF" alt="GitHub Profile Details" />
 </p>
 
 ---
@@ -116,7 +116,7 @@
 # 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anandojha2407&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anandojha2407&bg_color=050B14&color=00E5FF&line=00E5FF&point=B8F3FF&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -143,7 +143,7 @@
 # 🏆 GitHub Achievements & Activity
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anandojha2407&theme=tokyonight" alt="GitHub Achievements and Activity" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anandojha2407&theme=github_dark&bg_color=050B14&title_color=00E5FF&text_color=B8F3FF&icon_color=00E5FF" alt="GitHub Achievements and Activity" />
 </p>
 
 ---
