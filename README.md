@@ -1,115 +1,155 @@
-<!-- Profile Banner -->
 <h1 align="center">Hi 👋, I'm Anand Ojha</h1>
-<h3 align="center">AI/ML | IOT |  Python | MERN </h3>
+
+<h3 align="center">AI/ML | IoT | Python | MERN</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=62F9FF&size=26&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+React+%26+Node.js;C%2B%2B+%7C+Python+Programmer;Embedded+Systems+%7C+Arduino+%26+Sensors;Love+Building+Real+World+Projects+💡;Always+Learning+New+Tech+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=62F9FF&size=26&center=true&vCenter=true&width=700&lines=AI%2FML+%7C+Python+Developer;Computer+Vision+%7C+Machine+Learning;Python+%7C+C%2B%2B+%7C+JavaScript;IoT+%7C+Arduino+%7C+Embedded+Systems;Building+Real-World+Projects+%F0%9F%92%A1;Always+Learning+New+Tech+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🌟 **About Me**
-✨ Passionate about building **modern web apps**, **embedded systems**, and **intelligent software**  
-✨ Strong foundation in **C++, Python, JavaScript, and electronics**  
-✨ I love exploring **systems, IoT, backend engineering, and clean UI/UX**  
-✨ Open to internships, projects, and collaborations  
-**Portfolio:** **https://anandojha.vercel.app/**
-📧 **Email:** *anandojha901@gmail.com*
+## 🌟 About Me
+
+* 🔭 Passionate about **AI/ML, Python, IoT, and software development**
+* 🧠 Building projects involving **Computer Vision, Machine Learning, and intelligent systems**
+* 💻 Experienced with **Python, C++, JavaScript, React, Node.js, and MongoDB**
+* 🔌 Interested in **embedded systems, Arduino, sensors, and real-world automation**
+* 🚀 Love learning new technologies and turning ideas into working projects
+* 🤝 Open to **internships, projects, and collaborations**
+
+🌐 **Portfolio:** https://anandojha.vercel.app/
+📧 **Email:** [anandojha901@gmail.com](mailto:anandojha901@gmail.com)
 
 ---
 
-# 🎯 **Skills & Technologies**
+# 🎯 Skills & Technologies
 
-## 🧠 **Languages**
+## 🧠 Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript" alt="Languages" />
 </p>
 
-## 🎨 **Frontend**
+## 🤖 AI / ML
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=python,opencv" alt="AI ML" />
 </p>
 
-## 🛠 **Backend & APIs**
+## 🎨 Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,bootstrap" alt="Frontend" />
 </p>
 
-## 🗄️ **Databases**
+## 🛠 Backend & APIs
+
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" alt="Backend" />
 </p>
 
-## ⚙️ **Tools & Platforms**
+## 🗄️ Databases
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
 </p>
 
-## 🔌 **Embedded / Hardware**
+## ⚙️ Tools & Platforms
+
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,docker" alt="Tools" />
+</p>
+
+## 🔌 Embedded & Hardware
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino" alt="Embedded Systems" />
 </p>
 
 ---
 
-# 🚀 **Projects**
-### 🔹 **Full-Stack Web Development**
-- React + Node + MongoDB projects  
-- Authentication systems  
-- Dashboards  
-- REST APIs  
+# 🚀 Projects
 
-### 🔹 **Embedded & IoT**
-- Arduino sensor integrations  
-- Automation circuits  
-- Serial data processing  
+### 🔹 AI / Machine Learning
 
-### 🔹 **Python Development**
-- Data processing scripts  
-- Visualization tools  
-- Algorithm implementations  
+* Computer Vision projects
+* Machine Learning experiments
+* Image processing and analysis
+* Python-based AI applications
 
----
+### 🔹 Full-Stack Development
 
-# 📊 **GitHub Stats (Stable Servers)**
+* React + Node.js applications
+* REST APIs
+* Authentication systems
+* Dashboards and web applications
 
-<p align="center">
-  <img height="160px" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=anandojha2407&show_icons=true&theme=tokyonight"/>
-  <img height="160px" src="https://streak-stats.demolab.com?user=anandojha2407&theme=tokyonight"/>
-</p>
+### 🔹 Embedded & IoT
 
-<p align="center">
-  <img height="160px" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=anandojha2407&layout=compact&theme=tokyonight"/>
-</p>
+* Arduino-based projects
+* Sensor integrations
+* Automation systems
+* Serial communication and data processing
 
----
+### 🔹 Python Development
 
-# 🔥 **Contribution Activity**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anandojha2407&theme=react-dark"/>
-</p>
+* Data processing tools
+* Visualization utilities
+* Automation scripts
+* Algorithm implementations
 
 ---
 
-# 🌐 **Connect With Me**
+# 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://twitter.com/anand_2324"><img src="https://skillicons.dev/icons?i=twitter" width="50"/></a>
-  <a href="https://linkedin.com/in/anand-ojha-398052247"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
-  <a href="https://instagram.com/venom_knox24"><img src="https://skillicons.dev/icons?i=instagram" width="50"/></a>
-  <a href="https://www.youtube.com/@anandojha7250"><img src="https://skillicons.dev/icons?i=youtube" width="50"/></a>
+  <img height="160" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=anandojha2407&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="160" src="https://streak-stats.demolab.com?user=anandojha2407&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=anandojha2407&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-# 🏆 **Badges & Achievements**
+# 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anandojha2407&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anandojha2407&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
 
-# ✨ **Thanks for stopping by!**
+# 🌐 Connect With Me
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anandojha2407&color=brightgreen&label=PROFILE+VIEWS"/>
+  <a href="https://twitter.com/anand_2324">
+    <img src="https://skillicons.dev/icons?i=twitter" width="50" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/anand-ojha-398052247">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/venom_knox24">
+    <img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/@anandojha7250">
+    <img src="https://skillicons.dev/icons?i=youtube" width="50" alt="YouTube" />
+  </a>
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anandojha2407&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+<h3 align="center">✨ Thanks for stopping by!</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anandojha2407&color=brightgreen&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
